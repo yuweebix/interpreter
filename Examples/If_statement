@@ -1,0 +1,8 @@
+let x = 322;
+let y = 228;
+
+if x < y {
+    print(0);
+;} else {
+    print(1);
+;}

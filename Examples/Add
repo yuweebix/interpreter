@@ -1,0 +1,8 @@
+fun add (a; b) {
+    a + b;
+}
+
+let a = 0.69;
+let b = 420;
+let x = add(a; b);;
+print(add(a; b););

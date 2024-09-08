@@ -1,0 +1,5 @@
+fun square (x) {
+    x * x;
+}
+
+print(square(100););
